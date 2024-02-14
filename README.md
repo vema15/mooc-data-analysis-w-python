@@ -9,4 +9,4 @@ Course Start:
 1/10/2024
 
 Course End:
-TBD
+2/14/2024
